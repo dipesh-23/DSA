@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
