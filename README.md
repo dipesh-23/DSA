@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
