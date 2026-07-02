@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dipesh-23/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
