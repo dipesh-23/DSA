@@ -17,43 +17,35 @@ class Solution {
 
     }
     public int minimumTotal(List<List<Integer>> t) {
-        
-        // int m = t.size();
-        // int n = m;
-        // int[][] dp = new int[m][n];
-
-        // for(int i=0; i<m; i++){
-        //     for(int j=0; j<=i; j++){
-
-        //         if(i==0 && j==0){
-        //             dp[i][j] = t.get(i).get(j);
-        //             continue;
-        //         }
-
-        //         int up = t.get(i).get(j);
-        //         int left = t.get(i).get(j);
-
-        //         if(i<=0) up+= 100000;
-        //         else up+= dp[i-1][j];
-
-        //         if(j<=0) left+= 100000;
-        //         else left+= dp[i-1][j-1];
-
-        //         dp[i][j] = Math.min(up,left); 
-        //     }
-        // }
-        
-        // int ans = Integer.MAX_VALUE;
-        // for(int i=0; i<m; i++){
-        //     ans = Math.min(ans,dp[m-1][i]);
-        // }
-
+        //Here we staarted memoizaton from 0,0 why because if we start from last there are n states to  maintain for sum so why cant we start from single state 0,0
         int m = t.size();
-        int[][] dp = new int[m][m];
+        int n = m;
+        int[][] dp = new int[m][n];
 
-        for(int i=0; i<m; i++){
-            Arrays.fill(dp[i],Integer.MAX_VALUE);
+        //Tabulation is exactly opp of what u have done in memoization.
+        //base case is for row n-1
+
+        int[] prev = new int[n];
+        for(int i=0; i<n; i++){
+            prev[i] = t.get(n-1).get(i);
         }
-        return f(0,0,t,dp);
+
+        for(int i=n-2; i>=0; i--){
+            int[] temp = new int[n];
+            for(int j=0; j<=i; j++){
+
+                temp[j] = t.get(i).get(j)+Math.min(prev[j],prev[j+1]);
+            }
+
+            prev = temp;
+        }
+
+        return prev[0];
+        //space optimize using the prev and temp arr;
+
+        // for(int i=0; i<m; i++){
+        //     Arrays.fill(dp[i],Integer.MAX_VALUE);
+        // }
+        // return f(0,0,t,dp);
     }
 }
