@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
