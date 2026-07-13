@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2233-maximum-product-after-k-increments](https://github.com/dipesh-23/DSA/tree/master/2233-maximum-product-after-k-increments) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/dipesh-23/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
