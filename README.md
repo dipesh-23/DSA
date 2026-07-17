@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dipesh-23/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dipesh-23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dipesh-23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dipesh-23/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -184,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
