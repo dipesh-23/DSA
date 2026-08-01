@@ -64,7 +64,7 @@ class Solution {
         for(int neighbour : adj.get(node)){
             if(!visited[neighbour]){
                 ans = ans || cycle(neighbour,visited,adj);
-            }else if(visited[neighbour] == true && pathvisited[neighbour] == true){
+            }else if(pathvisited[neighbour] == true){
                 return true;
             }
         }
