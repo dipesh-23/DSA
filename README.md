@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dipesh-23/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dipesh-23/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
