@@ -31,10 +31,33 @@ class Solution {
         int[][] dp = new int[n][m];
 
         for(int i=0; i<n; i++){
-            Arrays.fill(dp[i],-1);
+            for(int j=0; j<m; j++){
+                if(i==0 && j==0){
+                    dp[0][0] = grid[0][0];
+                    continue;
+                }
+
+                dp[i][j]  = grid[i][j];
+                int left = 0;
+                int up = 0;
+
+                if(j==0){
+                    left = Integer.MAX_VALUE/5;
+                }else{
+                    left = dp[i][j-1];
+                }
+
+                if(i==0){
+                    up = Integer.MAX_VALUE/5;
+                }else{
+                    up = dp[i-1][j];
+                }
+
+                dp[i][j] += Math.min(up,left);
+            }
         }
 
-        return f(n-1,m-1,grid,dp);
+        return dp[n-1][m-1];
        
     }
 }
