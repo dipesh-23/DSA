@@ -21,10 +21,22 @@ class Solution {
 
         int[][] dp = new int[n][m];
 
-        for(int i=0; i<n; i++){
-            Arrays.fill(dp[i],Integer.MAX_VALUE);
+        for(int i=0; i<m; i++){
+            dp[n-1][i] = t.get(n-1).get(i);
         }
 
-        return f(0,0,t,dp);
+        for(int i= n-2; i>=0; i--){
+            for(int j=0; j<=i; j++){
+                
+                int right = 0;
+                right = t.get(i).get(j)+dp[i+1][j+1];
+
+                int left = t.get(i).get(j)+dp[i+1][j];
+
+                dp[i][j] = Math.min(left,right);
+            }
+        }
+
+        return dp[0][0];
     }
 }
