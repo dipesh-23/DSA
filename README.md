@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/dipesh-23/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dipesh-23/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -168,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dipesh-23/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/dipesh-23/DSA/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
