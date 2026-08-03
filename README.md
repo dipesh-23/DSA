@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dipesh-23/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dipesh-23/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dipesh-23/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Search Tree
 |  |
 | ------- |
