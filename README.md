@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/dipesh-23/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Game Theory
 |  |
@@ -257,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
