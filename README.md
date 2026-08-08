@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipesh-23/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Simulation
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dipesh-23/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
 |  |
