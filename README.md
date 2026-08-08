@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dipesh-23/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dipesh-23/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dipesh-23/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dipesh-23/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 ## Bracket Sequences
 |  |
 | ------- |
