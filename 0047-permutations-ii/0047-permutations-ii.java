@@ -2,13 +2,7 @@ class Solution {
     public void f(List<Integer> list, List<List<Integer>> res,int[] nums,boolean[] visited,int explored){
 
         if(list.size() == nums.length){
-            List<Integer> ans = new ArrayList<>();
-
-            for(int i=0; i<list.size(); i++){
-                ans.add(nums[list.get(i)]);
-            }
-
-            res.add(ans);
+            res.add(new ArrayList<>(list));
             return;
         }
 
@@ -20,7 +14,7 @@ class Solution {
 
             if(visited[i] == true) continue;
 
-            list.add(i);
+            list.add(nums[i]);
             visited[i] = true;
             f(list,res,nums,visited,explored);
             visited[i] = false;
