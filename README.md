@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/dipesh-23/DSA/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
+| [0216-combination-sum-iii](https://github.com/dipesh-23/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
