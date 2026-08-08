@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dipesh-23/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dipesh-23/DSA/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/dipesh-23/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dipesh-23/DSA/tree/master/0047-permutations-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipesh-23/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/dipesh-23/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dipesh-23/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
