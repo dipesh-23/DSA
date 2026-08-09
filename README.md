@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipesh-23/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dipesh-23/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1895-largest-magic-square](https://github.com/dipesh-23/DSA/tree/master/1895-largest-magic-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dipesh-23/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
+| [1895-largest-magic-square](https://github.com/dipesh-23/DSA/tree/master/1895-largest-magic-square) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1895-largest-magic-square](https://github.com/dipesh-23/DSA/tree/master/1895-largest-magic-square) |
 ## Depth-First Search
 |  |
 | ------- |
