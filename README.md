@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipesh-23/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dipesh-23/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Simulation
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dipesh-23/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dipesh-23/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Search Tree
 |  |
@@ -287,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dipesh-23/DSA/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
