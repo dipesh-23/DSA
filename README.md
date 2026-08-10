@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dipesh-23/DSA/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/dipesh-23/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dipesh-23/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dipesh-23/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2000-reverse-prefix-of-word](https://github.com/dipesh-23/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dipesh-23/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/dipesh-23/DSA/tree/master/0047-permutations-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipesh-23/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
