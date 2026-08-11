@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dipesh-23/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Greedy
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dipesh-23/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dipesh-23/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/dipesh-23/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dipesh-23/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
 | ------- |
