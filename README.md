@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dipesh-23/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -266,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dipesh-23/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -308,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -321,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
