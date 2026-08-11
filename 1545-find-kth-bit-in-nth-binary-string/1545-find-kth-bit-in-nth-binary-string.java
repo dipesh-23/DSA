@@ -8,9 +8,7 @@ class Solution {
             return '0';
         }
 
-        if(k == mid){
-            return '1';
-        }else if(k < mid){
+        if(k < mid){
             char a = solve(n-1,k);
             return a;
         }else if(k > mid){
@@ -27,6 +25,9 @@ class Solution {
     }
     public char findKthBit(int n, int k) {
         
+        if(k>1 && (k&(k-1)) == 0){
+            return '1';
+        }
         return solve(n,k);
     }
 }
