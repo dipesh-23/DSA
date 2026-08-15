@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dipesh-23/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dipesh-23/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dipesh-23/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
 | ------- |
