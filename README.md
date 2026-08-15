@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
 | [2104-sum-of-subarray-ranges](https://github.com/dipesh-23/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2233-maximum-product-after-k-increments](https://github.com/dipesh-23/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dipesh-23/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Simulation
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1895-largest-magic-square](https://github.com/dipesh-23/DSA/tree/master/1895-largest-magic-square) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
