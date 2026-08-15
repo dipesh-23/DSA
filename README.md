@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dipesh-23/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3693-climbing-stairs-ii](https://github.com/dipesh-23/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dipesh-23/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dipesh-23/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dipesh-23/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/dipesh-23/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3693-climbing-stairs-ii](https://github.com/dipesh-23/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
