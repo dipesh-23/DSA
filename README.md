@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dipesh-23/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dipesh-23/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dipesh-23/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/dipesh-23/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dipesh-23/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dipesh-23/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/dipesh-23/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dipesh-23/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
