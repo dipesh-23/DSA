@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/dipesh-23/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2233-maximum-product-after-k-increments](https://github.com/dipesh-23/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/dipesh-23/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dipesh-23/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/dipesh-23/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Simulation
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/dipesh-23/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1895-largest-magic-square](https://github.com/dipesh-23/DSA/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/dipesh-23/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Depth-First Search
 |  |
