@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/dipesh-23/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/dipesh-23/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dipesh-23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/dipesh-23/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -353,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
