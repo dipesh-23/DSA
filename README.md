@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/dipesh-23/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/dipesh-23/DSA/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2000-reverse-prefix-of-word](https://github.com/dipesh-23/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dipesh-23/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/dipesh-23/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
