@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dipesh-23/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/dipesh-23/DSA/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/dipesh-23/DSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/dipesh-23/DSA/tree/master/0216-combination-sum-iii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dipesh-23/DSA/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/dipesh-23/DSA/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dipesh-23/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2233-maximum-product-after-k-increments](https://github.com/dipesh-23/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dipesh-23/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
