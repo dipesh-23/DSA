@@ -40,11 +40,31 @@ class Solution {
         }
 
         int target = sum/2;
-        int[][] dp = new int[n][target+1];
-        for(int i=0; i< n; i++){
-            Arrays.fill(dp[i], -1);
+        boolean[][] dp = new boolean[n][target+1];
+        
+        for(int i=0; i<n; i++){
+            dp[i][0] = true;
         }
 
-        return f(0,target, nums,dp);
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
+        }
+
+        for(int i=1; i<n; i++){
+            for(int j=1; j< target+1; j++){
+                boolean nottake = dp[i-1][j];
+                boolean take = false;
+                if(j > nums[i]){
+
+                     take = dp[i-1][j-nums[i]];
+                }
+
+                dp[i][j] = take || nottake;
+            }
+        }
+
+        return dp[n-1][target];
+
+        
     }
 }
