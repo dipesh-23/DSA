@@ -1,42 +1,50 @@
 class Solution {
-
-    public boolean solve(int index, int target,int[] nums, int[][] dp){
-        if(index == 0) return (nums[0] == target);
+    public boolean f(int i, int target, int[] nums,int[][] dp){
 
         if(target == 0){
             return true;
         }
-
-        if(dp[index][target] != -1){
-            return (dp[index][target]==0)? true : false;
+        if(i == nums.length){
+            return (target == 0)? true: false;
         }
 
-        boolean take = (nums[index] > target) ? false :solve(index-1, target-nums[index],nums,dp);
-        boolean nottake = solve(index-1, target, nums,dp);
+        if(target < 0){
+            return false;
+        }
 
-        dp[index][target] = (take | nottake)? 0 : 1;
+        if(dp[i][target] != -1){
+            return dp[i][target] == 1;
+        }
 
-        return take | nottake;
+        boolean take = f(i+1, target-nums[i],nums,dp);
+        boolean nottake = f(i+1,target,nums,dp);
+
+        if((take || nottake) == true){
+            dp[i][target] = 1;
+        }else{
+            dp[i][target] = 0;
+        }
+
+        return (take || nottake);
     }
     public boolean canPartition(int[] nums) {
         
+        int sum = 0;
         int n = nums.length;
-        long sum = 0;
         for(int i=0; i<n; i++){
-            sum+= nums[i];
+            sum += nums[i];
         }
 
         if(sum%2 == 1){
             return false;
         }
 
-        int target = (int)sum/2;
+        int target = sum/2;
         int[][] dp = new int[n][target+1];
+        for(int i=0; i< n; i++){
+            Arrays.fill(dp[i], -1);
+        }
 
-        for(int i=0; i<n; i++){
-            Arrays.fill(dp[i],-1);
-        }    
-
-        return solve(n-1,target,nums,dp);
+        return f(0,target, nums,dp);
     }
 }
