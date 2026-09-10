@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dipesh-23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -282,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dipesh-23/DSA/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dipesh-23/DSA/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
