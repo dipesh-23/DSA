@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/dipesh-23/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/dipesh-23/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dipesh-23/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dipesh-23/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dipesh-23/DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/dipesh-23/DSA/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/dipesh-23/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/dipesh-23/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dipesh-23/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -451,12 +454,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/dipesh-23/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/dipesh-23/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 ## Linked List
