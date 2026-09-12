@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dipesh-23/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 | [0848-shifting-letters](https://github.com/dipesh-23/DSA/tree/master/0848-shifting-letters) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dipesh-23/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dipesh-23/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dipesh-23/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/dipesh-23/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dipesh-23/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/dipesh-23/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/dipesh-23/DSA/tree/master/0216-combination-sum-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Bracket Sequences
 |  |
 | ------- |
