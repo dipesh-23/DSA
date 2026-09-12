@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/dipesh-23/DSA/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/dipesh-23/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dipesh-23/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dipesh-23/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/dipesh-23/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/dipesh-23/DSA/tree/master/0486-predict-the-winner) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/dipesh-23/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dipesh-23/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -448,11 +451,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dipesh-23/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dipesh-23/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/dipesh-23/DSA/tree/master/0518-coin-change-ii) |
 ## Linked List
 |  |
