@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dipesh-23/DSA/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dipesh-23/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dipesh-23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dipesh-23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dipesh-23/DSA/tree/master/0735-asteroid-collision) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dipesh-23/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dipesh-23/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dipesh-23/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/dipesh-23/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipesh-23/DSA/tree/master/0210-course-schedule-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dipesh-23/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dipesh-23/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dipesh-23/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dipesh-23/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dipesh-23/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dipesh-23/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dipesh-23/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/dipesh-23/DSA/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dipesh-23/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dipesh-23/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## 0-1 Knapsack
 |  |
