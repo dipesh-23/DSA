@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2000-reverse-prefix-of-word](https://github.com/dipesh-23/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dipesh-23/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2396-strictly-palindromic-number](https://github.com/dipesh-23/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dipesh-23/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dipesh-23/DSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dipesh-23/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/dipesh-23/DSA/tree/master/2028-find-missing-observations) |
+| [2396-strictly-palindromic-number](https://github.com/dipesh-23/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipesh-23/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dipesh-23/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dipesh-23/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/dipesh-23/DSA/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/dipesh-23/DSA/tree/master/0810-chalkboard-xor-game) |
+| [2396-strictly-palindromic-number](https://github.com/dipesh-23/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Nim Game
 |  |
 | ------- |
