@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dipesh-23/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/dipesh-23/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/dipesh-23/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dipesh-23/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dipesh-23/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/dipesh-23/DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/dipesh-23/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dipesh-23/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dipesh-23/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dipesh-23/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Topological Sort
 |  |
