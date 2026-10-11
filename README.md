@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0993-cousins-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/dipesh-23/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dipesh-23/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dipesh-23/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/dipesh-23/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0993-cousins-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dipesh-23/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/dipesh-23/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0993-cousins-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dipesh-23/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dipesh-23/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
